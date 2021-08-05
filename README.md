@@ -25,11 +25,11 @@
 
 ### 📕 Latest Blog Posts
 
-- [Working with Vue and Flask (Part 1 Directory Structure)](https://medium.com/@wizlif.144/working-with-vue-and-flask-part-1-directory-structure-9be58692131c)
-- [Working with Vue and Flask (Part 2 Flask & Vue Setup)](https://medium.com/@wizlif.144/working-with-vue-and-flask-part-2-flask-vue-setup-5d2f825c9105)
-- [Working with Vue and Flask (Part 3 Flask Deployment with Apache 2)](https://medium.com/@wizlif.144/working-with-vue-and-flask-part-3-flask-deployment-with-apache-2-d8f38cf4dd1f)
+- [Working with Vue and Flask (Part 1 Directory Structure)](https://wizlif-144.medium.com/working-with-vue-and-flask-part-1-directory-structure-9be58692131c)
+- [Working with Vue and Flask (Part 2 Flask & Vue Setup)](https://wizlif-144.medium.com/working-with-vue-and-flask-part-2-flask-vue-setup-5d2f825c9105)
+- [Working with Vue and Flask (Part 3 Flask Deployment with Apache 2)](https://wizlif-144.medium.com/working-with-vue-and-flask-part-3-flask-deployment-with-apache-2-d8f38cf4dd1f)
 
-➡️ [more blog posts...](https://medium.com/@wizlif.144)
+➡️ [more blog posts...](https://wizlif-144.medium.com)
 
 
 ### Github Stats
