@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/wizlif144?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwizlif&screen_name=wizlif)
 [![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/6056359?color=F48024&logo=stackexchange&style=for-the-badge)](https://stackoverflow.com/users/6056359/isaac-obella)
 
-## Shy Programmer, walking algorithm!!
+## The Grand master!!
 
 - 🔭 I've just joined [code wars](https://www.codewars.com/users/wizlif), trying to sharpen my python skills
 - 🌱 I’m currently learning Unit testing basics(Total Newbie 😊) & Golang
