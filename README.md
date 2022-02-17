@@ -6,10 +6,11 @@
 
 ## The Grand master!!
 
-- 🔭 I've just joined [code wars](https://www.codewars.com/users/wizlif), trying to sharpen my python skills
-- 🌱 I’m currently learning Unit testing basics(Total Newbie 😊) & Golang
+- 🔭 Mobile Dev with Flutter and Kotlin(Android)
+- 💻 Vue JS 2 & Python Flask Front & Backend
+- 🌱 Looking to learn CI/CD this year
 - 🗒️ Do some blogging on [Medium](https://wizlif-144.medium.com) but been really lazy this year
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I would love to draw & play music but can barely doodle or strum the guitar
 - 🎥 Also a movie addict
 
