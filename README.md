@@ -10,7 +10,7 @@
 - 💻 Vue JS 2 & Golang & Python Front & Backend
 - 🌱 Github Actions CI/CD
 - 🗒️ Do some blogging on [Medium](https://wizlif-144.medium.com) but been really lazy this year
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Write more articles & youtube videos
 - ⚡ Fun fact: I would love to draw & play music but can barely doodle or strum the guitar
 - 🎥 Also a movie addict
 
