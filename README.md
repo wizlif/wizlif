@@ -7,8 +7,8 @@
 ## The Grand master!!
 
 - 🔭 Mobile Dev with Flutter and Kotlin(Android)
-- 💻 Vue JS 2 & Python Flask Front & Backend
-- 🌱 Looking to learn CI/CD this year
+- 💻 Vue JS 2 & Golang & Python Front & Backend
+- 🌱 Github Actions CI/CD
 - 🗒️ Do some blogging on [Medium](https://wizlif-144.medium.com) but been really lazy this year
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I would love to draw & play music but can barely doodle or strum the guitar
@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud)![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)![Kotlin](https://img.shields.io/badge/Kotlin-pink?style=for-the-badge&logo=kotlin)![Vue 2](https://img.shields.io/badge/vue-2.x-brightgreen.svg?style=for-the-badge&logo=vue)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)![Go](https://img.shields.io/badge/Golang-white?style=for-the-badge&logo=go)![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud)![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazon)![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)![Kotlin](https://img.shields.io/badge/Kotlin-pink?style=for-the-badge&logo=kotlin)![Vue 2](https://img.shields.io/badge/vue-2.x-brightgreen.svg?style=for-the-badge&logo=vue)
 
 <br />
 <br />
